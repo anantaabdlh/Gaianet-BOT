@@ -1,4 +1,4 @@
-# <h2 align=center>Gaianet-BOT</h2>
+# <h2 align=center>Gaianet-BOT by CryptoAirdropHindi</h2>
 
 
 ## 1. Clone the repository to your local machine:
