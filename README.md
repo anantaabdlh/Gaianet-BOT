@@ -76,3 +76,8 @@ Press `Enter` to save the file with the current name (`message.txt`).
 ```
 docker stop gaianet && docker rm gaianet && Gaianet-BOT
 ```
+
+---
+"Great, all set! If you have any questions, don’t hesitate to ask in our Telegram channel."
+- Telegram - https://t.me/Crypto_airdropHM
+- Youtube - https://www.youtube.com/@CryptoAirdropHindi6
