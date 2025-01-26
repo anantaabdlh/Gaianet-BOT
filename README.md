@@ -65,3 +65,8 @@ Save the file:
 After adding your messages, press `Ctrl + X` to exit.
 Press `Y` to confirm saving the changes.
 Press `Enter` to save the file with the current name (`message.txt`).
+
+## stop the Node
+```
+docker stop gaianet && docker rm gaianet && Gaianet-BOT
+```
