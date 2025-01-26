@@ -3,13 +3,19 @@
 
 ## 1. Clone the repository to your local machine:
 ```
-git clone https://github.com/alimallick/bot-gaianet.git
+git clone https://github.com/CryptoAirdropHindi/Gaianet-BOT.git
 cd Gaianet-BOT
 ```
-## 2. 
+## 2. Install Python 3: Install Python 3 using the `apt` package manager:
+```
+sudo apt update
+sudo apt install python3
+```
 
-## 3.
-
+## 3. Install `python3-pip` Install `pip` for Python 3 by running:
+```
+sudo apt install python3-pip
+```
 ## 4. Install the required package `python3-venv`
 ```
 sudo apt update
