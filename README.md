@@ -25,6 +25,9 @@ sudo apt install python3-venv
 ## 5. Create a virtual environment: After installing the `python3-venv` package,
 you can then create the virtual environment with the correct command:
 ```
+screen -S gaiabot
+```
+```
 python3 -m venv venv
 ```
 This will create a `venv` folder in your current directory.
