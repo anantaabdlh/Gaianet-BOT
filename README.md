@@ -63,13 +63,7 @@ Add messages that you want to be used in your bot.
 These could be predefined prompts or anything you want the bot
 to send. Each message should be on a separate line.
 
-For example:
-```
-Hello, how are you today?
-What's the weather like?
-Can you help me with coding?
-Tell me a joke!
-```
+[For example:](https://github.com/CryptoAirdropHindi/Gaianet-BOT/blob/main/message)
 Save the file:
 
 After adding your messages, press `Ctrl + X` to exit.
