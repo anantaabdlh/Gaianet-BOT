@@ -52,7 +52,7 @@ Add the API key and API URL to the file:
 - On the first line, put the API Key. [https://www.gaianet.ai/setting](https://www.gaianet.ai/setting/gaia-api-keys)
 - On the second line, put the API URL. go to `https://your node id.us.gaianet.network`
 - Click on `API Tutorial` in the bottom corner of the Go to Chat screen.
-- Copy `/v1/chat/completions`
+- Copy `/https://llama.gaia.domains/v1/chat/completions`
 - Copy the API key and replace it in `account.txt`
 
 ## 9. Open `message.txt`
