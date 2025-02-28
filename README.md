@@ -27,16 +27,6 @@ you can then create the virtual environment with the correct command:
 ```
 screen -S gaiabot
 ```
-```
-python3 -m venv venv
-```
-This will create a `venv` folder in your current directory.
-
-## 6. Activate the virtual environment: Once the virtual environment is created, you need to activate it:
-```
-source venv/bin/activate
-```
-This will change your shell prompt to indicate that the virtual environment is active.
 
 ## 7. Install any dependencies (if needed): Once the virtual environment is activated,
 you can install your Python dependencies using `pip`
