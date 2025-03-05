@@ -37,41 +37,13 @@ pip install -r requirements.txt
 ```
 nano account.txt
 ```
-Add the API key and API URL to the file:
+Add the GAIA-API key:
 
 - On the first line, put the API Key. [https://www.gaianet.ai/setting](https://www.gaianet.ai/setting/gaia-api-keys)
-- On the second line, put the API URL. go to `https://your node id.us.gaianet.network`
-- Click on `API Tutorial` in the bottom corner of the Go to Chat screen.
-- Copy `https://llama.gaia.domains/v1/chat/completions`
-- Copy the API key and replace it in `account.txt`
+- You can add as many apikey as you like.
 
-## 9. Open `message.txt`
-```
-nano message.txt
-```
-Add messages that you want to be used in your bot.
-These could be predefined prompts or anything you want the bot
-to send. Each message should be on a separate line.
 
-[For example:](https://github.com/CryptoAirdropHindi/Gaianet-BOT/blob/main/message)
-Save the file:
-
-After adding your messages, press `Ctrl + X` to exit.
-Press `Y` to confirm saving the changes.
-Press `Enter` to save the file with the current name (`message.txt`).
-
-## 10. node run
+## 9. node run
 ```
-python3 bot.py
+python3 bot.py 3
 ```
-
-## stop the Node
-```
-docker stop gaianet && docker rm gaianet && Gaianet-BOT
-```
-
----
-"Great, all set! If you have any questions, don’t hesitate to ask in our Telegram channel."
-Or if you'd like something more friendly and engaging:
-- Telegram - https://t.me/Crypto_airdropHM
-- Youtube - https://www.youtube.com/@CryptoAirdropHindi6
